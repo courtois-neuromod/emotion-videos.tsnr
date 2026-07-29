@@ -1,0 +1,1 @@
+209a6859-5c6e-4693-989a-4a76d8cf70b7 autoenable=true bucket=cneuromod.emotion-videos.tsnr chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.emotion-videos.tsnr port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1785353006s
